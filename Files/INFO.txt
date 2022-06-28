@@ -1,1 +1,1 @@
-There some samples about files.
+There is a sample about files.
