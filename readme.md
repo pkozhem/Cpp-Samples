@@ -1,0 +1,1 @@
+Some C++ easy algorithm samples there
